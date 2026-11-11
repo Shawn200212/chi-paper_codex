@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "codex",
+  "core": "chi-paper_codex-core",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "chi-paper": "7b6c8e68ca957344046c23d90933de9663fa49da1ce6d5bbbb23de8d44a0f095"
+  }
+}
